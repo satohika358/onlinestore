@@ -1,0 +1,21 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Anna's Online Store</h1>
+
+<% cache @items do %>
+  <% @items.each do |item| %>
+    <% cache item do %>
+    <div class="entry">
+      <%#= image_tag(item.image_url) %>
+      <h3><%= item.name %></h3>
+      <div class="price_line">
+        <%= sanitize(item.description) %>
+      </div>
+      <div class="price_line">
+        <span class="price"><%= item.price %></span>
+        <%= button_to 'Add to Cart', buy_items_path(item_id: item), remote: true %>
+      </div>
+    </div>
+    <% end %>
+  <% end %>
+<% end %>

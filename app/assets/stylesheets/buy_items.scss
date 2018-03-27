@@ -1,0 +1,16 @@
+// Place all the styles related to the BuyItems controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@keyframes buy-item-highlight {
+  0% {
+    background: #88ff88;
+  }
+  100% {
+    background: none;
+  }
+}
+
+.buy-item-highlight {
+  animation: buy-item-highlight 1s;
+}

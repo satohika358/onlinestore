@@ -1,0 +1,2091 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"account",
+				"account_rows"
+			],
+			[
+				"acco",
+				"account_rows"
+			],
+			[
+				"ec",
+				"each"
+			],
+			[
+				"all",
+				"all_active"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"Underw",
+				"Underwriter"
+			],
+			[
+				"trai",
+				"training_modules"
+			],
+			[
+				"inve",
+				"inventory_entry"
+			],
+			[
+				"Inve",
+				"InventoryAdjustment"
+			],
+			[
+				"avai",
+				"available_quantity"
+			],
+			[
+				"reser",
+				"reserved_quantity"
+			],
+			[
+				"or",
+				"order_slip_id"
+			],
+			[
+				"order_sli",
+				"order_slip_number"
+			],
+			[
+				"order_",
+				"order_slip_number"
+			],
+			[
+				"order",
+				"order_slip_number"
+			],
+			[
+				"bill",
+				"billing_address_id"
+			],
+			[
+				"shippin",
+				"shipping_address_id"
+			],
+			[
+				"ordr",
+				"order_slip"
+			],
+			[
+				"sch",
+				"school_year_terms"
+			],
+			[
+				"schoo",
+				"school_term_ids"
+			],
+			[
+				"school_term",
+				"school_term_ids"
+			],
+			[
+				"school",
+				"school_year_term_ids"
+			],
+			[
+				"enr",
+				"enrollment_adjustment"
+			],
+			[
+				"chart",
+				"chart_of_account"
+			],
+			[
+				"pre",
+				"prev_enrollment"
+			],
+			[
+				"cate",
+				"category_fee_type"
+			],
+			[
+				"enrollment",
+				"enrollment_fees"
+			],
+			[
+				"en",
+				"enrollment_fees"
+			],
+			[
+				"enrol",
+				"enrollment"
+			],
+			[
+				"enrollment_disc",
+				"enrollment_discounts"
+			],
+			[
+				"tuitio",
+				"tuition_rate_id"
+			],
+			[
+				"first",
+				"first_sem_school_year_term"
+			],
+			[
+				"curer",
+				"current_curriculum"
+			],
+			[
+				"sor",
+				"sorted_ledgers"
+			],
+			[
+				"skip",
+				"skip_valid_oglas_for_items"
+			],
+			[
+				"in",
+				"internal_accounting_organization_id"
+			],
+			[
+				"ledger",
+				"ledger_vals"
+			],
+			[
+				"car",
+				"chart_of_account_id"
+			],
+			[
+				"from_",
+				"from_date_display"
+			],
+			[
+				"thur",
+				"thru_date_display"
+			],
+			[
+				"exma",
+				"exam_hours"
+			],
+			[
+				"study",
+				"study_hours"
+			],
+			[
+				"row",
+				"row_count"
+			],
+			[
+				"firs",
+				"first_table_end_row"
+			],
+			[
+				"Training",
+				"TrainingPillar"
+			],
+			[
+				"your",
+				"your_answer"
+			],
+			[
+				"exam",
+				"exam_answer_key"
+			],
+			[
+				"traiin",
+				"training_module"
+			],
+			[
+				"admin",
+				"administrator"
+			],
+			[
+				"training",
+				"training_module"
+			],
+			[
+				"trainn",
+				"training_module"
+			],
+			[
+				"eval",
+				"evaluation"
+			],
+			[
+				"user_tra",
+				"user_training_maps"
+			],
+			[
+				"trainig",
+				"training_object"
+			],
+			[
+				"user",
+				"user_training_maps"
+			],
+			[
+				"thru",
+				"thru_date"
+			],
+			[
+				"I",
+				"I18n"
+			],
+			[
+				"total",
+				"total_seconds"
+			],
+			[
+				"users",
+				"users_who_completed_the_module"
+			],
+			[
+				"employee",
+				"employee_ids"
+			],
+			[
+				"trainin",
+				"training_modules"
+			],
+			[
+				"traini",
+				"training_modules"
+			],
+			[
+				"comlete",
+				"completed_module_user_status"
+			],
+			[
+				"tra",
+				"training_module_id"
+			],
+			[
+				"data",
+				"data-parent"
+			],
+			[
+				"generate",
+				"generateTrainingCertificate"
+			],
+			[
+				"action",
+				"action_name"
+			],
+			[
+				"label",
+				"label-default"
+			],
+			[
+				"updated_",
+				"updated_by_id"
+			],
+			[
+				"machin",
+				"machine_parts_list"
+			],
+			[
+				"machine",
+				"machine_part_id"
+			],
+			[
+				"add",
+				"add_machine_part"
+			],
+			[
+				"ex",
+				"execute_script"
+			],
+			[
+				"parts",
+				"parts_inventory"
+			],
+			[
+				"WA",
+				"WAREHOUSE_ID"
+			],
+			[
+				"pro",
+				"problem_resolution"
+			],
+			[
+				"Valuation",
+				"ValuationService"
+			],
+			[
+				"new",
+				"new_valuation"
+			],
+			[
+				"SO",
+				"SOAPFault"
+			],
+			[
+				"S",
+				"SOAPFault"
+			],
+			[
+				"will",
+				"willDestroyElement"
+			],
+			[
+				"report",
+				"reportDetail"
+			],
+			[
+				"valex",
+				"valex_identifier"
+			],
+			[
+				"propert",
+				"property_metadata"
+			],
+			[
+				"miles",
+				"milestone_code"
+			],
+			[
+				"requir",
+				"require_valuation_or_enquiry"
+			],
+			[
+				"valuer",
+				"valuerEmail"
+			],
+			[
+				"client",
+				"client_organisations"
+			],
+			[
+				"for",
+				"for_advanced_search"
+			],
+			[
+				"provided",
+				"providedAtDeadline"
+			],
+			[
+				"ser",
+				"serviceLevelAgreement"
+			],
+			[
+				"updated",
+				"updated_params"
+			],
+			[
+				"Fair",
+				"FairMarketValue"
+			],
+			[
+				"Mor",
+				"MortgageMinimisation"
+			],
+			[
+				"V",
+				"Valuation"
+			],
+			[
+				"Valat",
+				"ValuationService"
+			],
+			[
+				"Mort",
+				"MortgageeSale"
+			],
+			[
+				"Contr",
+				"ConstructionLoan"
+			],
+			[
+				"field",
+				"field_array"
+			],
+			[
+				"enti",
+				"entity_name"
+			],
+			[
+				"vms_",
+				"vms_identifier"
+			],
+			[
+				"sear",
+				"search_params"
+			],
+			[
+				"servi",
+				"service_level_agreement"
+			],
+			[
+				"le",
+				"lender_deadline"
+			],
+			[
+				"setup_",
+				"setup_service_level_agreement"
+			],
+			[
+				"lend",
+				"lender_deadline_date"
+			],
+			[
+				"pu",
+				"pushObject"
+			],
+			[
+				"val",
+				"valSize"
+			],
+			[
+				"co",
+				"commercialReportValuations"
+			],
+			[
+				"rurl",
+				"ruralReportValuations"
+			],
+			[
+				"re",
+				"retrospective"
+			],
+			[
+				"des",
+				"desktopValuations"
+			],
+			[
+				"ker",
+				"kerbsideAssessmentValuations"
+			],
+			[
+				"full",
+				"fullReportValuations"
+			],
+			[
+				"Re",
+				"Retrospective"
+			],
+			[
+				"ap",
+				"apiPropertyProReportValuations"
+			],
+			[
+				"push",
+				"pushObjects"
+			],
+			[
+				"ea",
+				"forEach"
+			],
+			[
+				"pr",
+				"productCategory"
+			],
+			[
+				"each",
+				"getEach"
+			],
+			[
+				"access",
+				"access_provider"
+			],
+			[
+				"update",
+				"updated_params"
+			],
+			[
+				"enq",
+				"enquiry_params"
+			],
+			[
+				"sc",
+				"schedule_detail"
+			],
+			[
+				"acce",
+				"accessProviders"
+			],
+			[
+				"selected",
+				"selected_options"
+			],
+			[
+				"form_f",
+				"form_field_jq"
+			],
+			[
+				"En",
+				"EnquiryService"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/models/item.rb",
+			"settings":
+			{
+				"buffer_size": 435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/store_controller.rb",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/store/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 549,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 917,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/application.scss",
+			"settings":
+			{
+				"buffer_size": 2623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/concerns/current_cart.rb",
+			"settings":
+			{
+				"buffer_size": 199,
+				"line_ending": "Unix",
+				"name": "module CurrentCart"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/carts.scss",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/models/buy_item.rb",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/models/order.rb",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/models/cart.rb",
+			"settings":
+			{
+				"buffer_size": 362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/store.scss",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/buy_items_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/orders_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 1000,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/helpers/application_helper.rb",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/create.js.coffee",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix",
+				"name": "cart = document.getElementById(\"cart\")"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/buy_items.scss",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/carts/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 53,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/carts/_cart.html.erb",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/_buy_item.html.erb",
+			"settings":
+			{
+				"buffer_size": 258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/carts_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Ajax (which once stood for Asynchronous\nJavaScript and XML but now just means “making browsers suck less”)",
+			"settings":
+			{
+				"buffer_size": 106,
+				"line_ending": "Unix",
+				"name": "Ajax (which once stood for Asynchronous"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/meri/Documents/RailsBk/demo/app/views/say/hello.html.erb",
+		"/home/meri/Documents/RailsBk/demo/db/migrate/20180326080800_add_quantity_to_buy_items.rb",
+		"/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/items.scss",
+		"/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/application.css",
+		"/home/meri/Documents/RailsBk/demo/app/views/layouts/application.html.erb",
+		"/home/meri/Documents/RailsBk/demo/db/migrate/20180326053158_create_items.rb",
+		"/home/meri/Documents/RailsBk/demo/app/controllers/say_controller.rb",
+		"/home/meri/Documents/RailsBk/demo/app/views/say/goodbye.html.erb",
+		"/home/meri/Documents/RailsBk/demo/app/views/items/index.html.erb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/app/models/claim.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/app/models/member_availed_plan.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/app/models/pdf/pdf.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/db/schema.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/app/models/pdf/confirmation_letter.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/app/models/pdf/renewal_notice.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/config/locales/en.yml",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/app/datatables/availed_plans_datatable.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/app/models/availed_plan.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/db/seeds.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/app/controllers/documents_controller.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/config/routes.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/app/models/ability.rb",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/config/database.yml",
+		"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS/Gemfile",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/config/routes.rb",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/assets/javascripts/branches.js",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/assets/javascripts/turbolinks-jquery.js",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/layouts/application.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/assets/javascripts/main.js",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/layouts/_header.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/branches/index.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/db/migrate/20170803093807_create_branches.rb",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/models/user.rb",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/models/branch.rb",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/models/concerns/active_status.rb",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/controllers/branches_controller.rb",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/branches/archive.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/models/ability.rb",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/branches/_form.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/branches/show.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/branches/new.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/users/_form.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/config/locales/en.yml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/db/migrate/20150909083302_create_users.rb",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/branches/edit.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/datatables/branches_datatable.rb",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/app/views/users/index.html.haml",
+		"/home/meri/PROJECTS/ASIAN_EYE/SOURCE/AEI/config/database.yml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config/database.yml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/models/exam_result.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/views/users/_user_manuals.html.haml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/views/users/dashboard.html.haml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/models/user_status.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config/locales/simple_form.en.yml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/controllers/exam_results_controller.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/models/user_training_map.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/helpers/application_helper.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/models/ability.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/models/training.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/models/xlsx/training_status_report.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config/locales/en.yml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/helpers/exam_results_helper.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/views/training_materials/study.html.haml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/views/users/welcome_message.html.haml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config/data/welcome_videos.yml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/views/training_materials/show.html.haml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/datatables/training_modules_datatable.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/assets/javascripts/training_module.js",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/views/training_modules/index.html.haml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/controllers/training_modules_controller.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/models/training_module.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/views/users/_dashboard_training_modules.html.haml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/views/trainings/_employee_index.html.haml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/views/training_modules/_employee_show.html.haml",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/Gemfile",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/datatables/user_statuses_datatable.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/models/user.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/controllers/users_controller.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/controllers/exam_answer_keys_controller.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/controllers/user_exam_items_controller.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/datatables/users_datatable.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/scorm-cloud/readme.textile",
+		"/home/meri/PROJECTS/LBC/SOURCE/scorm-cloud/lib/scorm_cloud/base_service.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/scorm-cloud/lib/scorm_cloud/connection.rb",
+		"/home/meri/PROJECTS/LBC/SOURCE/scorm-cloud/lib/scorm_cloud/course_service.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/production_batch_tickets/_pbt_properties_form.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/models/master_formula.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/models/product.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/models/item.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/production_batch_tickets/batcher_index.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/controllers/inventory_entries_controller.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/discount_schemes/show.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/models/production_process.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/models/production_batch_ticket.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/datatables/inventory_entries_datatable.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/controllers/production_batch_tickets_controller.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/models/ability.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/inventory_entries/_form.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/datatables/inventory_transactions_datatable.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/inventory_entries/new.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/assets/javascripts/inventory_entries.js",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/items/show.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/production_batch_tickets/_form.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/order_slips/_form.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/models/order_item.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/config/locales/en.yml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/controllers/order_items_controller.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/order_slips/show.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/datatables/order_items_datatable.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/controllers/order_slips_controller.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/items/new.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/production_batch_tickets/edit.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/helpers/application_helper.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/controllers/production_orders_controller.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/controllers/master_formulas_controller.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/models/pdf/production_batch_ticket_print.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/production_batch_tickets/show.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/models/item_type.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/faye.ru",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/controllers/users_controller.rb",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/layouts/_header.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/users/dashboard.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/delivery_receipts/show.html.haml",
+		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/trip_tickets/show.html.haml",
+		"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/lib/tasks/update_ledgers.rake",
+		"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/app/views/enrollments/assess.html.haml",
+		"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/app/views/ledgers/show.html.haml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/meri/Documents/CISP-IMS/workspace/CISP-IMS",
+			"<open files>,<open folders>",
+			"",
+			"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/",
+			"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/",
+			"",
+			"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/",
+			"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/app/models",
+			"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/",
+			"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/app/models",
+			"",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/BROTHER/deploy_biph/biph/",
+			"/home/meri/PROJECTS/BROTHER/deploy_biph/biph/db",
+			"/home/meri/PROJECTS/BROTHER/deploy_biph/biph",
+			"/home/meri/SOURCE/manila_uni_lms/",
+			"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/two/punp-phase2",
+			"/home/meri/PROJECTS/MANILA_UNI/SOURCE/manila_uni_lms/",
+			"/home/meri/PROJECTS/BROTHER/biph/",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/features",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/config",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/db",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/db",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/app/models",
+			"/home/meri/PROJECTS/LBC/SOURCE/LBC-LMS/",
+			"/home/meri/PROJECTS/MOONSTAR/SOURCE/Moonstar/",
+			"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/config",
+			"/home/meri/PROJECTS/ASTRA/DEMO/ENROLLMENT/smis_demo",
+			"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/",
+			"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/lib",
+			"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/app/views",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/app/views",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu",
+			"/home/meri/PROJECTS/CROSSPOINT/SOURCE_CODE/crosspoint/",
+			"/home/meri/PROJECTS/CROSSPOINT/SOURCE_CODE/crosspoint/app/assets",
+			"/home/meri/PROJECTS/CROSSPOINT/SOURCE_CODE/crosspoint/app/views",
+			"/home/meri/PROJECTS/CROSSPOINT/SOURCE_CODE/crosspoint/",
+			"/home/meri/PROJECTS/CROSSPOINT/SOURCE_CODE/crosspoint/app/views",
+			"/home/meri/PROJECTS/CROSSPOINT/SOURCE_CODE/crosspoint",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/config",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/config/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/config",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/features",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/db",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/",
+			"/home/meri/PROJECTS/PAGEMARK/CERTI_LOCK/SOURCE/Certi-lockSystem/",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/CROSSPOINT/SOURCE_CODE/crosspoint",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/features",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/app/assets/javascripts/templates",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/app/assets/javascripts",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/valuation_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/valuation_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/valuation_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/lib",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/htw_infra",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/app/assets",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/lib",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/valuation_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/enquiry_service/db",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/enquiry_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/enquiry_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/app/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/lib/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/app/controllers",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/SHIN_WU/SOURCE/ShinWu/features",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/property_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/property_servicce",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/valuation_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/htw_infra",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/valuation_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/valuation_service",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2/lib",
+			"/home/meri/PROJECTS/HTW/SOURCE_CODE/htw-all/storm-2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"accoun",
+			"image",
+			"Lan",
+			"land",
+			"each_with_index",
+			"accounts",
+			"alphabe",
+			"account_",
+			"Site",
+			"Land",
+			"due date",
+			"due_date",
+			"due date",
+			"member_availed_plans",
+			"member",
+			"availedplan",
+			"memberavailed",
+			"denied_number_of_members",
+			"assigned_to",
+			"assigned",
+			"show_file",
+			"download",
+			"batch",
+			"underwriting",
+			"cannot",
+			"batch",
+			"ruby",
+			"rails",
+			"truck",
+			"link-to",
+			"to_date",
+			"changed_values_on_update",
+			"to_date",
+			"create_batch_upload_log",
+			"to_date",
+			"New Associate Orientation Course",
+			"Training.last",
+			"Training.first",
+			"UserStatusLogger",
+			"UserTrainingMap",
+			"asset_url",
+			"Study On-going",
+			"Study On-Going",
+			"study_statuses",
+			"exam_already_finished",
+			"Already finished with exam for",
+			"TrainingModule",
+			"J",
+			"label",
+			"index_checkboxes",
+			"all_inactive",
+			"take_exam_msg_2",
+			"Isipin maigi kung nais na simulan an",
+			"training_complete",
+			"3rd_fail",
+			"may_exam",
+			"welcome_ka_lbc",
+			"Welcome Back!",
+			"created_at",
+			"@first_welcome_video",
+			"dashboard",
+			"Re-take",
+			"finish_study",
+			"study",
+			"rustici",
+			"ScormCloud",
+			"connection",
+			"def connection",
+			"execute_call_xml",
+			"get_course_list",
+			"ready_for_evaluation",
+			"get_current_quality_check",
+			"inventory-entries-table",
+			"full_name_with_product_code",
+			"admin_abilities",
+			"activity:",
+			"amount_without_discount",
+			"print_daily_qcqa_report",
+			"generate_daily_qcqa_report",
+			"production_manager_abilities",
+			"@containers",
+			"get_raw_material_inspection",
+			"@inspection",
+			"generate_packaging_list",
+			"PackagingList",
+			"generate_raw_material_list",
+			"to_letter",
+			"@count",
+			"inventory",
+			"balance_for_period",
+			"sum_it_up",
+			"account_balance",
+			"balance_for_period",
+			"get_total_balance",
+			"reverse_and_process_generic_items",
+			"add_and_process_generic_items",
+			"Account Receivable Officer",
+			"activity",
+			"deactivate",
+			"alert",
+			"page-header",
+			"order_slips",
+			"OrderSlip",
+			"full_name_with_item_code",
+			"order_slips",
+			"date",
+			"expiry",
+			"multi",
+			"logo",
+			"lofo",
+			"batch_number",
+			"underscore",
+			"user:",
+			"order_item:",
+			"finished_good_name",
+			"order_slip",
+			"inventory_management",
+			"autocomplete_item",
+			"timezone",
+			"ActivityHistory",
+			"def create",
+			"new_group",
+			"MachineType",
+			"per_set",
+			" PackagingDatatable",
+			"rmagick",
+			"there are existing inactive suppliers",
+			"activities-btn"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"branch",
+			"training pillar",
+			"training_pillar",
+			"training-pillar-table",
+			"TrainingPillar",
+			"traning pillar",
+			"traning_pillar",
+			"traning-pillar-table",
+			"training_pillar",
+			"training pillar",
+			"TrainingPillar",
+			"training pillar",
+			"training_pillar",
+			"training pillar",
+			"pillars",
+			"training-pillars-table",
+			"TrainingPillar",
+			"training pillar",
+			"training_pillar",
+			"training pillar",
+			"training_pillar",
+			"training pillar",
+			"TrainingPillar",
+			"training pillar",
+			"training_pillar",
+			"training_pillars",
+			"training pillars",
+			"training pillar",
+			"training_pillar",
+			"training_pillars",
+			"TrainingPillar",
+			"training_pillar",
+			"TrainingPillar",
+			"training_pillar",
+			"training_pillars",
+			"training_pillar",
+			"TrainingPillar",
+			"training_pillar",
+			"training_pillars",
+			"TrainingPillars",
+			"toggleModuleCompletionReportSubmitButton",
+			"module_completion_time_report",
+			"there are problem resolutions",
+			"Valuation",
+			"fax"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/meri/Documents/RailsBk/demo/app/models/item.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/meri/Documents/RailsBk/demo/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/store_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/store/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								779,
+								779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/application.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2378,
+								2378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1398.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/concerns/current_cart.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"auto_name": "module CurrentCart",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/carts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/meri/Documents/RailsBk/demo/app/models/buy_item.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/meri/Documents/RailsBk/demo/app/models/order.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/meri/Documents/RailsBk/demo/app/models/cart.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/store.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								812,
+								812
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/buy_items_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								784
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/orders_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2123,
+								2123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 618.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/_form.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								978,
+								978
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/home/meri/Documents/RailsBk/demo/app/helpers/application_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/create.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cart = document.getElementById(\"cart\")",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/buy_items.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							],
+							[
+								290,
+								290
+							],
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/carts/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/carts/_cart.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/_buy_item.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/carts_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1185,
+								1185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Ajax (which once stood for Asynchronous",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "goodbye.html.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"en.yml",
+				"config/locales/en.yml"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"ability",
+				"app/models/ability.rb"
+			],
+			[
+				"schedule",
+				"app/models/schedule.rb"
+			],
+			[
+				"sc",
+				"app/controllers/schedules_controller.rb"
+			],
+			[
+				"error_code_da",
+				"app/datatables/error_codes_datatable.rb"
+			],
+			[
+				"error_code",
+				"app/datatables/error_codes_datatable.rb"
+			],
+			[
+				"erro",
+				"app/controllers/error_codes_controller.rb"
+			],
+			[
+				"abil",
+				"app/models/ability.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"document",
+				"app/models/document.rb"
+			],
+			[
+				"error_code_dat",
+				"app/datatables/error_codes_datatable.rb"
+			],
+			[
+				"docume",
+				"app/models/document.rb"
+			],
+			[
+				"service",
+				"app/models/service_duration.rb"
+			],
+			[
+				"service_",
+				"app/models/service_duration.rb"
+			],
+			[
+				"ser",
+				"spec/factories/service_durations.rb"
+			],
+			[
+				"rails",
+				"spec/rails_helper.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"parts",
+				"app/models/parts_inventory.rb"
+			],
+			[
+				"vipa",
+				"htw_infra/site-cookbooks/apps/templates/default/vipa_service.xml.erb"
+			],
+			[
+				"fees",
+				"storm-2/features/fixtures/cassettes/i-send-the-quote-by-post.yml"
+			],
+			[
+				"quotation",
+				"storm-2/app/assets/javascripts/templates/quotation_letter.js.emblem"
+			],
+			[
+				"edit_ow",
+				"storm-2/app/assets/javascripts/templates/valuations/edit_ownership.js.emblem"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

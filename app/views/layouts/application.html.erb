@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Anna's Online Store</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+
+  <body class='<%= controller.controller_name %>'>
+  <div id="banner">
+    <%= "Anna's Online Store" %>
+    <span class="title"><%= @page_title %></span>
+  </div>
+  <div id="columns">
+    <div id="side">
+      <div>
+      <p> <%= Time.now %> </p>
+      <ul>
+        <li><a>Home</a></li>
+        <li><a>Question</a></li>
+        <li><a>News</a></li>
+        <li><a>Contact</a></li>
+      </ul>
+      </div>
+      <div id="cart">
+        <%= render_if @cart && @cart.buy_items.any?, @cart %>
+
+        <% if session[:user_id] %>
+          <ul>
+            <li><%= link_to 'Orders', orders_path %></li>
+            <li><%= link_to 'Products', items_path %></li>
+            <li><%= link_to 'Users', users_path %></li>
+          </ul>
+          <%= button_to 'Logout', logout_path, method: :delete %>
+        <% end %>
+      </div>
+    </div>
+    <div id="main">
+      <%= yield %>
+    </div>
+  </div>
+  </body>
+</html>
