@@ -1,7 +1,7 @@
 class BuyItemsController < ApplicationController
-  skip_before_action :authorize, only: :create
+  skip_before_action :authorize, only: [:create, :destroy]
   include CurrentCart
-  before_action :set_cart, only: [:create]
+  before_action :set_cart, only: [:create, :destroy]
   before_action :set_buy_item, only: [:show, :edit, :update, :destroy]
 
   # GET /buy_items
@@ -61,9 +61,15 @@ class BuyItemsController < ApplicationController
   # DELETE /buy_items/1
   # DELETE /buy_items/1.json
   def destroy
-    @buy_item.destroy
+    item = @cart.remove_item(@buy_item)
+    if item == nil
+      @buy_item.destroy
+    else
+      @buy_item = item
+    end
     respond_to do |format|
-      format.html { redirect_to buy_items_url, notice: 'Buy item was successfully destroyed.' }
+      format.html { redirect_to store_index_url, notice: 'Buy item was successfully destroyed.' }
+      format.js { @current_item = @buy_item }
       format.json { head :no_content }
     end
   end

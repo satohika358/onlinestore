@@ -1,9 +1,11 @@
 <% if buy_item == @current_item %>
-<tr class="buy-item-highlight">
+	<tr class="buy-item-highlight">
 <% else %>
   <tr>
 <% end %>
   <td><%= buy_item.quantity %>&times;</td>
   <td><%= buy_item.item.name %></td>
   <td class="item_price"><%= number_to_currency(buy_item.total_price) %></td>
+  <td><%= button_to '+', buy_items_path(item_id: buy_item.item.id), remote: true %>
+  	<%= button_to '–', buy_item, method: :delete, remote: true %></td>
 </tr>

@@ -11,10 +11,22 @@ class Cart < ApplicationRecord
     current_item
   end
 
+  def remove_item(item)
+    current_item = item
+    # puts "\n\n\n" + current_item.quantity.to_s + "\n\n\n"
+  if current_item.quantity <= 1
+    current_item = nil
+  else
+    current_item.quantity -= 1
+  end
+    current_item
+  end
+
   def total_price
     add_hi
     buy_items.to_a.sum { |i| i.total_price }
   end
+
   def add_hi
     puts "Hi"
   end
