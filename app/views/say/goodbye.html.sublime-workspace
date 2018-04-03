@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"sma",
+				"xx-small"
+			],
+			[
 				"account",
 				"account_rows"
 			],
@@ -510,28 +514,24 @@
 			[
 				"form_f",
 				"form_field_jq"
-			],
-			[
-				"En",
-				"EnquiryService"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/models/item.rb",
+			"file": "/home/meri/Documents/RailsBk/demo/config/routes.rb",
 			"settings":
 			{
-				"buffer_size": 435,
+				"buffer_size": 569,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/config/routes.rb",
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/sessions_controller.rb",
 			"settings":
 			{
-				"buffer_size": 265,
+				"buffer_size": 472,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,31 +539,63 @@
 			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/store_controller.rb",
 			"settings":
 			{
-				"buffer_size": 148,
+				"buffer_size": 180,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/views/store/index.html.erb",
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/carts_controller.rb",
 			"settings":
 			{
-				"buffer_size": 549,
+				"buffer_size": 1913,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/views/layouts/application.html.erb",
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/application_controller.rb",
 			"settings":
 			{
-				"buffer_size": 917,
+				"buffer_size": 277,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/application.scss",
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/users_controller.rb",
 			"settings":
 			{
-				"buffer_size": 2623,
+				"buffer_size": 1998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/admin_controller.rb",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/items_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2033,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/buy_items_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/orders_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2274,
 				"line_ending": "Unix"
 			}
 		},
@@ -577,18 +609,18 @@
 			}
 		},
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/carts.scss",
-			"settings":
-			{
-				"buffer_size": 345,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/home/meri/Documents/RailsBk/demo/app/models/buy_item.rb",
 			"settings":
 			{
 				"buffer_size": 179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 325,
 				"line_ending": "Unix"
 			}
 		},
@@ -609,42 +641,10 @@
 			}
 		},
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/store.scss",
+			"file": "/home/meri/Documents/RailsBk/demo/app/models/item.rb",
 			"settings":
 			{
-				"buffer_size": 947,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/buy_items_controller.rb",
-			"settings":
-			{
-				"buffer_size": 2108,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/orders_controller.rb",
-			"settings":
-			{
-				"buffer_size": 2219,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/new.html.erb",
-			"settings":
-			{
-				"buffer_size": 141,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/_form.html.erb",
-			"settings":
-			{
-				"buffer_size": 1000,
+				"buffer_size": 475,
 				"line_ending": "Unix"
 			}
 		},
@@ -657,19 +657,58 @@
 			}
 		},
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/create.js.coffee",
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/admin/index.html.erb",
 			"settings":
 			{
-				"buffer_size": 166,
-				"line_ending": "Unix",
-				"name": "cart = document.getElementById(\"cart\")"
+				"buffer_size": 101,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/buy_items.scss",
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/sessions/new.html.erb",
 			"settings":
 			{
-				"buffer_size": 345,
+				"buffer_size": 524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/store/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 549,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/users/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 1033,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 1367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 1000,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 188,
 				"line_ending": "Unix"
 			}
 		},
@@ -698,11 +737,70 @@
 			}
 		},
 		{
-			"file": "/home/meri/Documents/RailsBk/demo/app/controllers/carts_controller.rb",
+			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/buy_items.scss",
 			"settings":
 			{
-				"buffer_size": 1845,
+				"buffer_size": 345,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/application.scss",
+			"settings":
+			{
+				"buffer_size": 3011,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/store.scss",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/carts.scss",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/create.js.coffee",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix",
+				"name": "cart = document.getElementById(\"cart\")"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/app/views/store/who_bought.atom.builder",
+			"settings":
+			{
+				"buffer_size": 1035,
+				"line_ending": "Unix",
+				"name": "atom_feed do |feed|"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/Gemfile",
+			"settings":
+			{
+				"buffer_size": 2061,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/Procfile",
+			"settings":
+			{
+				"buffer_size": 53,
+				"line_ending": "Unix",
+				"name": "web: bin/rails server"
 			}
 		},
 		{
@@ -712,6 +810,70 @@
 				"buffer_size": 106,
 				"line_ending": "Unix",
 				"name": "Ajax (which once stood for Asynchronous"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/test/fixtures/items.yml",
+			"settings":
+			{
+				"buffer_size": 435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/test/models/item_test.rb",
+			"settings":
+			{
+				"buffer_size": 1136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/test/models/cart_test.rb",
+			"settings":
+			{
+				"buffer_size": 642,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/spec/models/cart_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1079,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/spec/rails_helper.rb",
+			"settings":
+			{
+				"buffer_size": 2675,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/test/fixtures/buy_items.yml",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/test/controllers/buy_items_controller_test.rb",
+			"settings":
+			{
+				"buffer_size": 1150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/meri/Documents/RailsBk/demo/test/controllers/store_controller_test.rb",
+			"settings":
+			{
+				"buffer_size": 353,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -747,6 +909,8 @@
 	},
 	"file_history":
 	[
+		"/home/meri/Documents/RailsBk/expenses/Gemfile",
+		"/home/meri/Documents/RailsBk/expenses/Gemfile.lock",
 		"/home/meri/Documents/RailsBk/demo/app/views/say/hello.html.erb",
 		"/home/meri/Documents/RailsBk/demo/db/migrate/20180326080800_add_quantity_to_buy_items.rb",
 		"/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/items.scss",
@@ -872,9 +1036,7 @@
 		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/users/dashboard.html.haml",
 		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/delivery_receipts/show.html.haml",
 		"/home/meri/PROJECTS/UNIVERSAL_PAINT/SOURCE/UniversalPaint/app/views/trip_tickets/show.html.haml",
-		"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/lib/tasks/update_ledgers.rake",
-		"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/app/views/enrollments/assess.html.haml",
-		"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/app/views/ledgers/show.html.haml"
+		"/home/meri/PROJECTS/PUNP/SOURCE_CODE/NEW/punp-phase2/lib/tasks/update_ledgers.rake"
 	],
 	"find":
 	{
@@ -1020,6 +1182,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"loof",
 			"accoun",
 			"image",
 			"Lan",
@@ -1146,8 +1309,7 @@
 			"per_set",
 			" PackagingDatatable",
 			"rmagick",
-			"there are existing inactive suppliers",
-			"activities-btn"
+			"there are existing inactive suppliers"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1210,24 +1372,24 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 39,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/meri/Documents/RailsBk/demo/app/models/item.rb",
+					"file": "/home/meri/Documents/RailsBk/demo/config/routes.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 435,
+						"buffer_size": 569,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								395,
-								395
+								399,
+								399
 							]
 						],
 						"settings":
@@ -1238,24 +1400,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/home/meri/Documents/RailsBk/demo/config/routes.rb",
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/sessions_controller.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 265,
+						"buffer_size": 472,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								74,
-								74
+								80,
+								80
 							]
 						],
 						"settings":
@@ -1275,15 +1437,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 148,
+						"buffer_size": 180,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								85,
-								85
+								77,
+								77
 							]
 						],
 						"settings":
@@ -1294,95 +1456,217 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 29,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/home/meri/Documents/RailsBk/demo/app/views/store/index.html.erb",
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/carts_controller.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 549,
+						"buffer_size": 1913,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								486,
-								486
+								113,
+								113
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 30,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "/home/meri/Documents/RailsBk/demo/app/views/layouts/application.html.erb",
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/application_controller.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 917,
+						"buffer_size": 277,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								779,
-								779
+								139,
+								139
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 42,
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/application.scss",
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/users_controller.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2623,
+						"buffer_size": 1998,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2378,
-								2378
+								1998,
+								1998
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1398.0,
+						"translation.y": 558.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
 					"buffer": 6,
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/admin_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/items_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1686,
+								1686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 438.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/buy_items_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/orders_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2274,
+								2274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 633.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
 					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/concerns/current_cart.rb",
 					"semi_transient": false,
 					"settings":
@@ -1407,39 +1691,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 37,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/carts.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 345,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								197,
-								197
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
+					"buffer": 11,
 					"file": "/home/meri/Documents/RailsBk/demo/app/models/buy_item.rb",
 					"semi_transient": false,
 					"settings":
@@ -1463,11 +1719,39 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 36,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 12,
+					"file": "/home/meri/Documents/RailsBk/demo/app/models/user.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
 					"file": "/home/meri/Documents/RailsBk/demo/app/models/order.rb",
 					"semi_transient": false,
 					"settings":
@@ -1491,11 +1775,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 35,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 14,
 					"file": "/home/meri/Documents/RailsBk/demo/app/models/cart.rb",
 					"semi_transient": false,
 					"settings":
@@ -1513,118 +1797,88 @@
 						],
 						"settings":
 						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/home/meri/Documents/RailsBk/demo/app/models/item.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 32,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
-					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/store.scss",
+					"buffer": 16,
+					"file": "/home/meri/Documents/RailsBk/demo/app/helpers/application_helper.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 947,
+						"buffer_size": 115,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								812,
-								812
+								1,
+								1
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 3.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 31,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
-					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/buy_items_controller.rb",
+					"buffer": 17,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/admin/index.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2108,
+						"buffer_size": 101,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								784,
-								784
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 360.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/orders_controller.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2219,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2123,
-								2123
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 618.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/new.html.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 141,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								135,
-								135
+								47,
+								47
 							]
 						],
 						"settings":
@@ -1635,11 +1889,131 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 18,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/sessions/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/store/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/users/_form.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								915,
+								915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								591,
+								591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
 					"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/_form.html.erb",
 					"semi_transient": false,
 					"settings":
@@ -1665,68 +2039,123 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 38,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
-					"file": "/home/meri/Documents/RailsBk/demo/app/helpers/application_helper.rb",
+					"buffer": 23,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/orders/new.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 115,
+						"buffer_size": 188,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								107,
-								107
+								188,
+								188
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 17,
-					"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/create.js.coffee",
+					"buffer": 24,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/carts/show.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 166,
+						"buffer_size": 53,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								83,
-								83
+								53,
+								53
 							]
 						],
 						"settings":
 						{
-							"auto_name": "cart = document.getElementById(\"cart\")",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 25,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/carts/_cart.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/_buy_item.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
 					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/buy_items.scss",
 					"semi_transient": false,
 					"settings":
@@ -1758,12 +2187,190 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 41,
 					"type": "text"
 				},
 				{
-					"buffer": 19,
-					"file": "/home/meri/Documents/RailsBk/demo/app/views/carts/show.html.erb",
+					"buffer": 28,
+					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/application.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1955,
+								1955
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/store.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								812,
+								812
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/home/meri/Documents/RailsBk/demo/app/assets/stylesheets/carts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/create.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cart = document.getElementById(\"cart\")",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/home/meri/Documents/RailsBk/demo/app/views/store/who_bought.atom.builder",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"auto_name": "atom_feed do |feed|",
+							"syntax": "Packages/Rails/Ruby on Rails.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/home/meri/Documents/RailsBk/demo/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1483,
+								1483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 183.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/home/meri/Documents/RailsBk/demo/Procfile",
 					"semi_transient": false,
 					"settings":
 					{
@@ -1774,109 +2381,24 @@
 						"selection":
 						[
 							[
-								53,
-								53
+								5,
+								5
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+							"auto_name": "web: bin/rails server",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
-					"file": "/home/meri/Documents/RailsBk/demo/app/views/carts/_cart.html.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 356,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								356,
-								356
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"file": "/home/meri/Documents/RailsBk/demo/app/views/buy_items/_buy_item.html.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 258,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								49,
-								49
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 22,
-					"file": "/home/meri/Documents/RailsBk/demo/app/controllers/carts_controller.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1845,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1185,
-								1185
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 408.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 23,
+					"buffer": 35,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1900,7 +2422,261 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "/home/meri/Documents/RailsBk/demo/test/fixtures/items.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							],
+							[
+								160,
+								160
+							],
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "/home/meri/Documents/RailsBk/demo/test/models/item_test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1128,
+								1128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "/home/meri/Documents/RailsBk/demo/test/models/cart_test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "/home/meri/Documents/RailsBk/demo/spec/models/cart_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							],
+							[
+								286,
+								286
+							],
+							[
+								324,
+								324
+							],
+							[
+								665,
+								665
+							],
+							[
+								703,
+								703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "/home/meri/Documents/RailsBk/demo/spec/rails_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1655,
+								1655
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "/home/meri/Documents/RailsBk/demo/test/fixtures/buy_items.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "/home/meri/Documents/RailsBk/demo/test/controllers/buy_items_controller_test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								912,
+								912
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 98.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "/home/meri/Documents/RailsBk/demo/test/controllers/store_controller_test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
 					"type": "text"
 				}
 			]

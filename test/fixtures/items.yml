@@ -2,12 +2,15 @@
 
 one:
   name: MyString
-  description: MyString
-  image_url: MyString
+  description: MyText
   price: 9.99
 
 two:
   name: MyString
-  description: MyString
-  image_url: MyString
+  description: MyText
   price: 9.99
+
+ruby:
+  name: Programming Ruby 1.9
+  description: Ruby is the fastest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.
+  price: 49.50

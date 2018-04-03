@@ -10,15 +10,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180327031823) do
+ActiveRecord::Schema.define(version: 20180328075931) do
+
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
 
   create_table "buy_items", force: :cascade do |t|
-    t.integer "item_id"
-    t.integer "cart_id"
+    t.bigint "item_id"
+    t.bigint "cart_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.integer "quantity", default: 1
-    t.integer "order_id"
+    t.bigint "order_id"
     t.index ["cart_id"], name: "index_buy_items_on_cart_id"
     t.index ["item_id"], name: "index_buy_items_on_item_id"
     t.index ["order_id"], name: "index_buy_items_on_order_id"
@@ -29,11 +32,26 @@ ActiveRecord::Schema.define(version: 20180327031823) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "delayed_jobs", force: :cascade do |t|
+    t.integer "priority", default: 0, null: false
+    t.integer "attempts", default: 0, null: false
+    t.text "handler", null: false
+    t.text "last_error"
+    t.datetime "run_at"
+    t.datetime "locked_at"
+    t.datetime "failed_at"
+    t.string "locked_by"
+    t.string "queue"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.index ["priority", "run_at"], name: "delayed_jobs_priority"
+  end
+
   create_table "items", force: :cascade do |t|
     t.string "name"
     t.string "description"
     t.string "image_url"
-    t.decimal "price"
+    t.decimal "price", precision: 8, scale: 2
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -54,4 +72,7 @@ ActiveRecord::Schema.define(version: 20180327031823) do
     t.datetime "updated_at", null: false
   end
 
+  add_foreign_key "buy_items", "carts"
+  add_foreign_key "buy_items", "items"
+  add_foreign_key "buy_items", "orders"
 end

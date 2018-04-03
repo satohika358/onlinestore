@@ -1,10 +1,15 @@
 class ItemsController < ApplicationController
   before_action :set_item, only: [:show, :edit, :update, :destroy]
+  skip_before_action :authorize, only: [:index], if: Proc.new {|c| c.request.format.json?}
 
   # GET /items
   # GET /items.json
   def index
     @items = Item.all
+    respond_to do |format|
+      format.html 
+      format.json { render json: ItemDatatable.new(view_context) }
+    end
   end
 
   # GET /items/1

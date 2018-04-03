@@ -12,6 +12,11 @@ class Cart < ApplicationRecord
   end
 
   def total_price
+    add_hi
     buy_items.to_a.sum { |i| i.total_price }
   end
+  def add_hi
+    puts "Hi"
+  end
+  handle_asynchronously :add_hi, :run_at => Proc.new { 10.seconds.from_now }
 end

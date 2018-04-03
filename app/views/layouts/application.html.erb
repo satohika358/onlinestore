@@ -6,6 +6,9 @@
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <%#= stylesheet_link_tag "/public/stylesheets/datatable_page" %>
+    <%#= stylesheet_link_tag "/public/stylesheets/datatable_table" %>
+    <%#= javascript_include_tag '/public/javascripts/jquery.dataTables.min' %>
   </head>
 
 
@@ -17,10 +20,14 @@
   <div id="columns">
     <div id="side">
       <div>
+      <p> <%= render_if @delay==false, "<p>hey</p>" %> </p>
       <p> <%= Time.now %> </p>
+      <p>Yup still available (y)</p>
       <ul>
-        <li><a>Home</a></li>
-        <li><a>Question</a></li>
+        <li><%= link_to 'Home', store_index_path %></li>
+        <div class="tooltip"><li><a>Question</a></li>
+          <span class="tooltiptext">wag mo nanaman pangunahan mga desisyon ko sa buhay cyst</span>
+        </div>
         <li><a>News</a></li>
         <li><a>Contact</a></li>
       </ul>

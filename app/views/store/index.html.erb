@@ -5,17 +5,59 @@
 <% cache @items do %>
   <% @items.each do |item| %>
     <% cache item do %>
-    <div class="entry">
-      <%#= image_tag(item.image_url) %>
-      <h3><%= item.name %></h3>
-      <div class="price_line">
-        <%= sanitize(item.description) %>
+      <div class="entry">
+        <%#= image_tag(item.image_url) %>
+        <h3><%= item.name %></h3>
+        <div class="price_line">
+          <%= sanitize(item.description) %>
+        </div>
+        <div class="price_line">
+          <span class="price"><%= item.price %></span>
+          <%= button_to 'Add to Cart', buy_items_path(item_id: item), remote: true %>
+        </div>
       </div>
-      <div class="price_line">
-        <span class="price"><%= item.price %></span>
-        <%= button_to 'Add to Cart', buy_items_path(item_id: item), remote: true %>
-      </div>
-    </div>
     <% end %>
   <% end %>
 <% end %>
+
+<% cache @moreitems do %>
+  <% @moreitems.each do |item| %>
+    <% cache item do %>
+      <div class="entry">
+        <%#= image_tag(item.image_url) %>
+        <h3><%= item[:name] %></h3>
+        <div class="price_line">
+          <%= sanitize(item[:description]) %>
+        </div>
+        <div class="price_line">
+          <span class="price"><%= item[:price] %></span>
+          <%= button_to 'Out of stock', store_index_path, method: :get, disabled: true %>
+        </div>
+      </div>
+    <% end %>
+  <% end %>
+<% end %>
+
+<%#= datatable('Items', { :name => { :type => 'string', 
+                                      :label => 'Name',
+                                      :width => '15%' },
+                           :description => { :type => 'string',
+                                      :label => 'Slug',
+                                      :width => '25%' },
+                           :price => { :type => 'decimal',
+                                        :label => 'price',
+                                        :width => '10%' }
+                         }) %>
+
+ <table id="items-table", data-source="<%= items_path(format: :json) %>">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Description</th>
+      <th>Price</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>

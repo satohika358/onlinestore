@@ -12,6 +12,7 @@
  *
  *= require_tree .
  *= require_self
+ *= require dataTables/jquery.dataTables
  */
 
 body, body > p, body > ol, body > ul, body > td {
@@ -99,6 +100,29 @@ text-align: center;
       }
     }
   }
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    height: 15px;
+    width: 300px;
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-size: xx-small;
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
 }
 
 .depot_form {

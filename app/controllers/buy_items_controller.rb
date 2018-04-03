@@ -42,6 +42,7 @@ class BuyItemsController < ApplicationController
     end
   end
 
+
   # PATCH/PUT /buy_items/1
   # PATCH/PUT /buy_items/1.json
   def update

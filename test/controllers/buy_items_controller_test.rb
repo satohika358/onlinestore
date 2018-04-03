@@ -17,10 +17,11 @@ class BuyItemsControllerTest < ActionDispatch::IntegrationTest
 
   test "should create buy_item" do
     assert_difference('BuyItem.count') do
-      post buy_items_url, params: { buy_item: { cart_id: @buy_item.cart_id, item_id: @buy_item.item_id } }
+      post buy_items_url, params: { item_id: products(:ruby).id }
     end
-
-    assert_redirected_to buy_item_url(BuyItem.last)
+    follow_redirect!
+    assert_select 'h2', "Anna's Online Store"
+    assert_select 'li', '1 \u00D7 Programming Ruby 1.9'
   end
 
   test "should show buy_item" do
@@ -34,7 +35,7 @@ class BuyItemsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update buy_item" do
-    patch buy_item_url(@buy_item), params: { buy_item: { cart_id: @buy_item.cart_id, item_id: @buy_item.item_id } }
+    patch buy_item_url(@buy_item), params: { buy_item: { item_id: @buy_item.item_id } }
     assert_redirected_to buy_item_url(@buy_item)
   end
 
