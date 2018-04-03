@@ -66,7 +66,17 @@ class BuyItemsController < ApplicationController
       @buy_item.destroy
     else
       @buy_item = item
+      @buy_item.save
     end
+    redirect_to store_index_url
+    # item = @buy_item
+    # if item.quantity == 1
+    #   @buy_item.destroy
+    #   redirect_to store_index_url
+    # else
+    #   @buy_item.quantity-=2
+    #   redirect_to buy_items_path(item_id: @buy_item.item.id), remote: true 
+    # end
     respond_to do |format|
       format.html { redirect_to store_index_url, notice: 'Buy item was successfully destroyed.' }
       format.js { @current_item = @buy_item }
